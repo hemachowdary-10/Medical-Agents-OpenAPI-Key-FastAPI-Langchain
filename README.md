@@ -12,8 +12,7 @@ It is **not intended for clinical use**.
 ---
 
 ## ✨ What’s New (Latest Update)
-
-- Added **MIT License**  
+  
 - Fixed bugs and updated `requirements.txt`  
 - Added `.gitignore`  
 - Upgraded core LLM to **GPT-5**  
